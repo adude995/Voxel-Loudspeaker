@@ -4,6 +4,8 @@ A compact first-order spherical loudspeaker array for direct–diffuse playback.
 Four 4" drivers in a 3D-printed enclosure, developed at the Institute of
 Electronic Music and Acoustics (IEM), Graz.
 
+<img src="images/voxel4_wireframe.png" alt="Voxel enclosure, wireframe view" width="400">
+
 ## Background
 
 Compact spherical loudspeaker arrays like the IKO use the room actively: sound
