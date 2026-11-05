@@ -25,9 +25,19 @@ version that is easy to build and can be 3D-printed.
 
 ## Building
 
-- Drivers: 4 × Lavoce WSN041.00
-- Print the enclosure solid (100 % infill). The model is designed to need no
-  infill structure, which helps to avoid resonances.
+Print the enclosure solid (100 % infill). The model is designed to need no
+infill structure, which helps to avoid resonances.
+
+| Qty | Part |
+|---|---|
+| 4 | Lavoce WSN041.00 drivers |
+| 1 | Neutrik NL8MPRXX speakON connector |
+| 16 | M5 brass inserts |
+| 4 | M3 brass inserts |
+| 2 | 5/8" brass inserts |
+| 16 | M5 screws, flat head |
+| 4 | M3 screws, countersunk |
+| | Wiring |
 
 ## References
 
