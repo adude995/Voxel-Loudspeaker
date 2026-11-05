@@ -10,7 +10,7 @@ Electronic Music and Acoustics (IEM), Graz.
 
 Compact spherical loudspeaker arrays like the IKO use the room actively: sound
 is beamed towards walls or away from the audience, so the reflections become
-part of the piece. Placing several small first-order arrays around the listener
+part of the piece [1, 2, 3]. Placing several small first-order arrays around the listener
 adds envelopment, and changing the ratio of direct to diffuse sound lets
 sources appear at different distances [4, 5].
 
